@@ -1,0 +1,31 @@
+id: P92C58293
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA21871
+  instance_id: http://purl.bdrc.io/resource/IE21871
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - རི་ཆོས་ངེས་དོན་རྒྱ་མཚོ་ཞེས་བྱ་བ་མཐར་ཐུག་ཐུན་མོང་མ་ཡིན་པའི་མན་ངག
+  alt_title:
+    zh-latn-wadegile:
+    - chueh nang shan chu fa, liao i hai lun
+  author: http://purl.bdrc.io/resource/P139
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    5f0e811df79143c9a61d6a8ddcafea5c:
+      title: པོད ༡་རི་ཆོས་ངེས་དོན་རྒྱ་མཚོ་ཞེས་བྱ་བ་མཐར་ཐུག་ཐུན་མོང་མ་ཡིན་པའི་མན་ངག
+      volume_number: 1
+      base_file: UT21871_4205_0000.txt
+      reference: http://purl.bdrc.io/resource/VLC2751943C039FB75
+      image_group: '4205'
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW21871
+  - http://purl.bdrc.io/resource/W21871
+  ocr_software: Namsel
+created_at: '2021-12-22T11:07:44.271031'
+last_modified_at: '2021-12-22T11:07:44.271038'
